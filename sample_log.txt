@@ -1,0 +1,6 @@
+[INFO] Server started at 10:00
+[INFO] User login: admin
+[WARNING] Unusual login time detected
+[ERROR] Failed login attempt from IP: 192.168.1.10
+[ALERT] Possible brute force attack
+[INFO] Log rotation completed
