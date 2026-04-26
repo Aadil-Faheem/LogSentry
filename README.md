@@ -2,9 +2,9 @@
 
 **LogSentry** is a lightweight Python-based anomaly detection tool for log files. It provides a simple GUI interface to scan and analyze logs from:
 
-- 🪟 **Windows Event Logs**
-- 🌐 **Apache Access Logs**
-- 📡 **Syslog**
+- **Windows Event Logs**
+- **Apache Access Logs**
+- **Syslog**
 
 Built for security analysts, developers, and sysadmins looking for a quick and intuitive way to detect unusual events in log data.
 
@@ -14,13 +14,13 @@ Built for security analysts, developers, and sysadmins looking for a quick and i
 
 <br>
 
-## 📦 Features
+## Features
 
-- 🧠 **Anomaly Detection** (basic keyword + pattern-based detection)
-- 🖼️ **GUI Interface** (built with Tkinter for ease of use)
-- 📁 Drag-and-drop or select log files manually
-- 🚨 Instant view of suspicious entries
-- 🪶 Lightweight and easy to modify or extend
+- **Anomaly Detection** (basic keyword + pattern-based detection)
+- **GUI Interface** (built with Tkinter for ease of use)
+- Drag-and-drop or select log files manually
+- Instant view of suspicious entries
+- Lightweight and easy to modify or extend
 
 <br>
 
@@ -28,15 +28,15 @@ Built for security analysts, developers, and sysadmins looking for a quick and i
 
 <br>
 
-## 🛠 Installation
+## Installation
 
-### ✅ Requirements
+### Requirements
 - Python 3.8+
 - Works on Windows, macOS, and Linux
 
 <br>
 
-### 📥 Clone or Download
+### Clone or Download
 
 ```
 git clone https://github.com/Aadil-Faheem/LogSentry.git
@@ -45,7 +45,7 @@ cd LogSentry
 
 <br>
 
-📦 Install dependencies (optional)
+Install dependencies (optional)
 ```
 pip install -r requirements.txt
 ```
@@ -53,7 +53,7 @@ Note: LogSentry uses mostly built-in modules.
 
 <br>
 
-🚀 Usage
+Usage
 Run the main script:
 
 ```
@@ -75,7 +75,7 @@ This version uses basic heuristics such as:
 
 <br>
 
-📦 Packaging to EXE (Optional)
+Packaging to EXE (Optional)
 If you want a standalone .exe:
 
 ```
@@ -88,12 +88,12 @@ Output will be found in the /dist folder.
 
 
 
-🧑‍💻 Author <br>
+Author <br>
 Aadil Faheem <br> 
-🔗 https://aadilfaheem.framer.website  <br>
-🐙 @Aadil-Faheem <br>
+https://aadilfaheem.framer.website  <br>
+@Aadil-Faheem <br>
 
 <br> 
 
-📜 License
+License
 MIT License – use it freely and safely.
